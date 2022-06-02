@@ -1,0 +1,28 @@
+body {
+	 background:black;
+	 font-size: 40px;
+	color:white;
+	font-family: 'Shadows Into Light', cursive;
+
+	 
+}
+
+h1{
+	 text-align:center;
+	 color:white;
+}
+
+img{
+	
+	display:block;
+	Margin right: auto;
+	Margim left: auto;
+}
+
+	
+	
+p{ 
+	
+	text-align:center;
+	 color:white;
+}
