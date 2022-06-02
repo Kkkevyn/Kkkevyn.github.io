@@ -32,7 +32,7 @@ a{
 }
 
 a:hover{
-	color:aliceblue(0,0,0,0,.874);
+	color:aliceblue;
 }
 
 a:visited{
