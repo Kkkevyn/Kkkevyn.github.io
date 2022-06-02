@@ -28,13 +28,13 @@ p{
 }
 
 a{
-	color:aliceblue;
+	color:white;
 }
 
 a:hover{
-	color:aliceblue;
+	color:white;
 }
 
 a:visited{
-	color:rgb(255, 255, 255);
+	color:white;
 }
