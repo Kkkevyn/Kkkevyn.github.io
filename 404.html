@@ -116,9 +116,7 @@ animation-play-state: paused;
   
   
 </style>
-<script>
-  
-</script>
+
 
 <div class="glitch-wrapper">
   <div class="glitch-text">
@@ -130,3 +128,11 @@ animation-play-state: paused;
 <button type="button">Send error</button>
   
   
+<script>
+
+$('button').hover(function(){
+$('.glitch-wrapper').toggleClass('paused');
+$('body').toggleClass('paused');
+});
+  
+</script>
